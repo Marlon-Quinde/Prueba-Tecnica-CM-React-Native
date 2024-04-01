@@ -33,7 +33,7 @@ export const TablaScreen = () => {
   const getData = async () => {
     setIsloading(true);
     const dataPhoto = API_JSON.get<PhotosInterface[]>('/photos');
-    const getPhotos = API_URL.get<PhotosInterface[]>('/json/register')
+    const getPhotos = API_URL.get<PhotosInterface[]>('/jsn/register')
     const allPeticion = [dataPhoto, getPhotos]
     const [fotosApi, fotosBack] = await Promise.all(allPeticion)
     console.log(fotosBack.data)
