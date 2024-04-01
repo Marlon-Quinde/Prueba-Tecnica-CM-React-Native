@@ -29,3 +29,8 @@ Solo tomando la información de los campos id,title,url.
 
 ![image](https://github.com/Marlon-Quinde/Prueba-Tecnica-CM-React-Native/assets/71990962/c5d44a6f-7417-498d-9564-f591deac2102)
 
+![image](https://github.com/Marlon-Quinde/Prueba-Tecnica-CM-React-Native/assets/71990962/b53a4009-ea75-48b9-9d27-98fdfb5e8df1)
+
+![image](https://github.com/Marlon-Quinde/Prueba-Tecnica-CM-React-Native/assets/71990962/4dc08ddd-a6f9-40c6-b2fb-dc5d1e27ead9)
+
+
