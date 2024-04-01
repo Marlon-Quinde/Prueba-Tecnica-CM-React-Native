@@ -1,5 +1,5 @@
 
-# Prueba Tecnica - Peliculas APP
+# Prueba Tecnica CM- React Native
 
 
 Prueba tecnica full stack realizada en React Native, Node y postgres.
