@@ -27,4 +27,5 @@ Solo tomando la información de los campos id,title,url.
 
 ## Screenshots
 
+![image](https://github.com/Marlon-Quinde/Prueba-Tecnica-CM-React-Native/assets/71990962/c5d44a6f-7417-498d-9564-f591deac2102)
 
