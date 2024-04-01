@@ -10,7 +10,7 @@ Prueba tecnica full stack realizada en React Native, Node y postgres.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-## Indications
+## Indicaciones
 
 Crear un proyecto móvil con React native (Android) que contenga lo siguiente. 
 1.	En la pantalla principal crear una gráfica basado en la frecuencia de las 30 palabras que más se repiten basados en los campos body del siguiente link de consumo https://jsonplaceholder.typicode.com/posts
